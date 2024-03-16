@@ -1,5 +1,5 @@
 
-package com.mycompany.app;
+package com.example;
 
 import static org.junit.Assert.assertTrue;
 

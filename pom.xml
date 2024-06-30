@@ -78,7 +78,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.mycompany.app.Main</mainClass> <!-- Replace with your main class -->
+              <mainClass>com.mycompany.app.App</mainClass> <!-- Updated to the correct main class -->
             </manifest>
           </archive>
         </configuration>
